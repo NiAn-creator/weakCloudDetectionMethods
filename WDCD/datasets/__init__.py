@@ -1,0 +1,3 @@
+from .wdcd_GF1Dataset import GF1_WSCD_train_cls,GF1_WSCD_valid_cls
+from .wdcdDataset import WDCD_train,WDCD_test_cls,WDCD_test_seg, WDCD_validate_seg
+from .wdcd_LandsatDataset import Landsat_WDCD_train,Landsat_WDCD_valid
